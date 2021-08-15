@@ -6,7 +6,7 @@ import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 @TeleOp
 public class DriverControlledExample extends OpMode {
 
-// Declaration goes here
+    // Declaration goes here
     
     @Override
     public void init(){
