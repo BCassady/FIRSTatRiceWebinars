@@ -4,7 +4,7 @@ import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
 import com.qualcomm.robotcore.eventloop.opmode.Autonomous;
 
 @Autonomous
-public class DriveForward extends LinearOpMode {
+public class AutonomousExample extends LinearOpMode {
 
     // Declaration goes here
 
